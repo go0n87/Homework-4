@@ -53,8 +53,11 @@
     <UnityVersion>2021.2.7f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\StateMachine.cs" />
+    <Compile Include="Assets\Comparing3NumbersFunctions.cs" />
     <Compile Include="Assets\CalcFunction.cs" />
+    <Compile Include="Assets\StateMachine.cs" />
+    <Compile Include="Assets\ComparingFunctions.cs" />
+    <Compile Include="Assets\QuadraticEquation.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
